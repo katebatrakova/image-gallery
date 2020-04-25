@@ -1,0 +1,22 @@
+
+body{
+  padding-top:70px;
+}
+.jumbotron{
+  color: #584153;
+  background-color: #af8baf;
+
+}
+.navbar{
+  background-color: #584153;
+  color: #af8baf;
+}
+.navbar a{
+  color: #af8baf;
+}
+.nav-link{
+  margin-left: 20px;
+}
+.navbar-toggler-icon{
+color: white;
+}
